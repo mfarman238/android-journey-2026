@@ -1,2 +1,2 @@
 # android-journey-2026
-My Android development journey towards a remote role in 2026.
+A complete journey of my Android development progress as I prepare for remote Android Developer roles in 2026.
